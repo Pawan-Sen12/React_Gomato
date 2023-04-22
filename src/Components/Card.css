@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box !important; 
+    margin: 0;
+    padding: 0;
+}
+.Card-style {
+    display: inline-block;
+    margin: 6px 33px;
+}
+
+.CardBtn{
+    width: 170px;
+    position: relative;
+    bottom: 7px;
+    left: 51px;
+}

@@ -1,0 +1,12 @@
+
+.Footer{
+    background-color: red;
+    font-family: sans-serif ;
+    justify-content: center;
+}
+
+.Footer-text{
+    position: relative;
+    left: 118%;
+
+}
